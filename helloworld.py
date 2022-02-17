@@ -1,1 +1,1 @@
-print('Hello world polling')
+print('Hello world polling ver 2')
